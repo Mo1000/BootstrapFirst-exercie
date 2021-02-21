@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214ba709-932a-499a-a46f-41f70e745013" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613914490308</updated>
       <workItem from="1613914491427" duration="559000" />
-      <workItem from="1613915067910" duration="4219000" />
+      <workItem from="1613915067910" duration="6374000" />
     </task>
     <servers />
   </component>
@@ -82,9 +83,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="784" y="183" key="Vcs.Push.Dialog.v2" timestamp="1613916194066">
+    <state x="784" y="183" key="Vcs.Push.Dialog.v2" timestamp="1613922182804">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="784" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1613916194066" />
+    <state x="784" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1613922182804" />
+    <state x="856" y="207" key="run.anything.popup" timestamp="1613923196999">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="856" y="207" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1613923196999" />
   </component>
 </project>
