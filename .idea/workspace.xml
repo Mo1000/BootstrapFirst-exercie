@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214ba709-932a-499a-a46f-41f70e745013" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1613936069311" duration="5848000" />
       <workItem from="1614010771705" duration="3469000" />
       <workItem from="1614348424119" duration="3866000" />
-      <workItem from="1614513249690" duration="6890000" />
+      <workItem from="1614513249690" duration="10761000" />
     </task>
     <servers />
   </component>
@@ -96,10 +94,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="784" y="183" key="Vcs.Push.Dialog.v2" timestamp="1613922182804">
+    <state x="784" y="183" key="Vcs.Push.Dialog.v2" timestamp="1614541125453">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="784" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1613922182804" />
+    <state x="784" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1614541125453" />
     <state x="793" y="0" width="814" height="907" key="dock-window-1" timestamp="1614011655467">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
