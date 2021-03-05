@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214ba709-932a-499a-a46f-41f70e745013" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +75,10 @@
       <workItem from="1614010771705" duration="3469000" />
       <workItem from="1614348424119" duration="3866000" />
       <workItem from="1614513249690" duration="12938000" />
-      <workItem from="1614618707947" duration="10760000" />
+      <workItem from="1614618707947" duration="10854000" />
+      <workItem from="1614722905391" duration="1016000" />
+      <workItem from="1614783371963" duration="9896000" />
+      <workItem from="1614907356920" duration="1295000" />
     </task>
     <servers />
   </component>
@@ -99,10 +105,14 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="784" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1614552878238" />
-    <state x="793" y="0" width="814" height="907" key="dock-window-1" timestamp="1614011655467">
+    <state x="793" y="0" width="814" height="907" key="dock-window-1" timestamp="1614907964960">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="793" y="0" width="814" height="907" key="dock-window-1/0.0.1600.900@0.0.1600.900" timestamp="1614011655467" />
+    <state x="793" y="0" width="814" height="907" key="dock-window-1/0.0.1600.900@0.0.1600.900" timestamp="1614907964960" />
+    <state x="793" y="0" width="814" height="907" key="dock-window-2" timestamp="1614908668483">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="793" y="0" width="814" height="907" key="dock-window-2/0.0.1600.900@0.0.1600.900" timestamp="1614908668483" />
     <state x="856" y="207" key="run.anything.popup" timestamp="1613923196999">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
