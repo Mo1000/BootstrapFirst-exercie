@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214ba709-932a-499a-a46f-41f70e745013" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +81,8 @@
       <workItem from="1614907356920" duration="1551000" />
       <workItem from="1615402781648" duration="2985000" />
       <workItem from="1615834297168" duration="7800000" />
-      <workItem from="1616053174820" duration="339000" />
+      <workItem from="1616053174820" duration="1455000" />
+      <workItem from="1616133692255" duration="6974000" />
     </task>
     <servers />
   </component>
@@ -118,5 +121,9 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="856" y="207" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1613923196999" />
+    <state x="863" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1616134628693">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="863" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1616134628693" />
   </component>
 </project>
