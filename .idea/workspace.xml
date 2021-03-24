@@ -20,11 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214ba709-932a-499a-a46f-41f70e745013" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles-old.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus1.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contactus.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +55,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../xampp/htdocs/ecommerce/Colloc-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -82,7 +89,7 @@
       <workItem from="1615402781648" duration="2985000" />
       <workItem from="1615834297168" duration="7800000" />
       <workItem from="1616053174820" duration="1455000" />
-      <workItem from="1616133692255" duration="6974000" />
+      <workItem from="1616133692255" duration="16779000" />
     </task>
     <servers />
   </component>
@@ -105,6 +112,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1085" y="287" key="#File_Watchers" timestamp="1616561608596">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="1085" y="287" key="#File_Watchers/0.0.1600.900@0.0.1600.900" timestamp="1616561608596" />
+    <state x="508" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616484675090">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="508" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1616484675090" />
+    <state x="980" y="159" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1616559913016">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="980" y="159" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.900@0.0.1600.900" timestamp="1616559913016" />
+    <state x="869" y="232" width="662" height="640" key="EditFileWatcherDialog" timestamp="1616559930434">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="869" y="232" width="662" height="640" key="EditFileWatcherDialog/0.0.1600.900@0.0.1600.900" timestamp="1616559930434" />
+    <state x="980" y="208" key="FileChooserDialogImpl" timestamp="1616514407684">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="980" y="208" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1616514407684" />
     <state x="784" y="183" key="Vcs.Push.Dialog.v2" timestamp="1614552878238">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -117,13 +144,13 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="793" y="0" width="814" height="907" key="dock-window-2/0.0.1600.900@0.0.1600.900" timestamp="1614908668483" />
-    <state x="856" y="207" key="run.anything.popup" timestamp="1613923196999">
+    <state x="856" y="207" key="run.anything.popup" timestamp="1616484660459">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="856" y="207" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1613923196999" />
-    <state x="863" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1616134628693">
+    <state x="856" y="207" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1616484660459" />
+    <state x="863" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1616562135216">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="863" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1616134628693" />
+    <state x="863" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1616562135216" />
   </component>
 </project>
